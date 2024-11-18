@@ -65,6 +65,9 @@ cargo run --release
   - `vertex.rs`: Contiene la definición de los vértices y su manipulación en la renderización.
  
   ## Ejecución
+
+https://github.com/user-attachments/assets/d3fb0aa1-a878-4325-906c-8cac51a412ad
+
   ![image](https://github.com/user-attachments/assets/1668af57-d262-4938-af32-c80f404e5286)
   ![image](https://github.com/user-attachments/assets/54ec609b-c771-4079-a325-3e503aba0c2d)
   ![image](https://github.com/user-attachments/assets/64b0b0bb-312c-4601-afa2-7733294617c7)
