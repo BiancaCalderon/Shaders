@@ -63,4 +63,14 @@ cargo run --release
   - `shaders.rs`: Contiene los shaders para cada cuerpo celeste, definiendo sus texturas y efectos visuales.
   - `triangle.rs`: Maneja la lógica y representación de triángulos en la simulación.
   - `vertex.rs`: Contiene la definición de los vértices y su manipulación en la renderización.
+ 
+  ## Ejecución
+  ![image](https://github.com/user-attachments/assets/1668af57-d262-4938-af32-c80f404e5286)
+  ![image](https://github.com/user-attachments/assets/54ec609b-c771-4079-a325-3e503aba0c2d)
+  ![image](https://github.com/user-attachments/assets/64b0b0bb-312c-4601-afa2-7733294617c7)
+  ![image](https://github.com/user-attachments/assets/498aaf04-2284-42e4-8d7f-cf14c3d67034)
+
+
+
+
 
